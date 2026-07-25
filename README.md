@@ -12,17 +12,17 @@ route.c -o q3
 ## Question status
 | Question | Complete / Partial / Not attempted | Known limitations |
 |----------|------------------------------------|-------------------|
-| Q1 | | |
-| Q2 | | |
-| Q3 | | |
-| C1 | | |
-| C2 | | |
+| Q1 |YES| |
+| Q2 |YES | |
+| Q3 |YES| |
+| C1 |YES| |
+| C2 |YES| |
 ## Complexity analysis
 | Question | Data structure used | Time | Space | Reason for the choice |
 |----------|---------------------|------|-------|-----------------------|
-| Q1 | | | | |
-| Q2 | | | | |
-| Q3 | | | | |
+| Q1 |YES| | | |
+| Q2 |YES| | | |
+| Q3 |YES| | | |
 | C2 | | | | |
 ## Memory safety
 State for each program whether all allocations are freed.
